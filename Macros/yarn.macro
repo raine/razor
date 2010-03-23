@@ -1,0 +1,4 @@
+!Loop
+Assistant.Macros.DoubleClickTypeAction|4000|True
+Assistant.Macros.PauseAction|00:00:00.2000000
+Assistant.Macros.LastTargetAction

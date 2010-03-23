@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
+<profile>
+	<property name="ForceSpeechHue" type="System.Boolean">False</property>
+	<property name="WarningColor" type="System.Int32">37</property>
+	<property name="RangeCheckLT" type="System.Boolean">True</property>
+	<property name="FlipVidH" type="System.Boolean">False</property>
+	<property name="UndressConflicts" type="System.Boolean">True</property>
+	<property name="SortCounters" type="System.Boolean">True</property>
+	<property name="TitleBarText" type="System.String">UO - {char} {crimtime}- {mediumstatbar} {bp} {bm} {gl} {gs} {mr} {ns} {ss} {sa} {aids}</property>
+	<property name="BlockHealPoison" type="System.Boolean">True</property>
+	<property name="DisplaySkillChanges" type="System.Boolean">False</property>
+	<property name="LastTargTextFlags" type="System.Boolean">True</property>
+	<property name="QueueActions" type="System.Boolean">True</property>
+	<property name="SkillListCol" type="System.Int32">2</property>
+	<property name="AutoCap" type="System.Boolean">False</property>
+	<property name="AutoSearch" type="System.Boolean">True</property>
+	<property name="RecFolder" type="System.String">D:\Program Files\Razor\Videos</property>
+	<property name="CapTimeStamp" type="System.Boolean">True</property>
+	<property name="HealthFmt" type="System.String">[{0}%]</property>
+	<property name="BeneficialSpellHue" type="System.Int32">5</property>
+	<property name="CounterWarn" type="System.Boolean">True</property>
+	<property name="HighlightReagents" type="System.Boolean">True</property>
+	<property name="ObjectDelay" type="System.Int32">600</property>
+	<property name="WindowX" type="System.Int32">348</property>
+	<property name="WindowY" type="System.Int32">571</property>
+	<property name="AutoOpenDoors" type="System.Boolean">True</property>
+	<property name="ForceSpellHue" type="System.Boolean">True</property>
+	<property name="CapFullScreen" type="System.Boolean">False</property>
+	<property name="OldStatBar" type="System.Boolean">False</property>
+	<property name="CountStealthSteps" type="System.Boolean">True</property>
+	<property name="NeutralSpellHue" type="System.Int32">945</property>
+	<property name="HarmfulSpellHue" type="System.Int32">37</property>
+	<property name="CapPath" type="System.String">D:\Program Files\Razor\ScreenShots</property>
+	<property name="ShowPartyStats" type="System.Boolean">True</property>
+	<property name="AlwaysStealth" type="System.Boolean">False</property>
+	<property name="SmartCPU" type="System.Boolean">True</property>
+	<property name="ShowNotoHue" type="System.Boolean">True</property>
+	<property name="ShowHealth" type="System.Boolean">True</property>
+	<property name="Negotiate" type="System.Boolean">True</property>
+	<property name="RememberPwds" type="System.Boolean">True</property>
+	<property name="Systray" type="System.Boolean">True</property>
+	<property name="ClientPrio" type="System.String">Normal</property>
+	<property name="FilterSpam" type="System.Boolean">False</property>
+	<property name="FilterSnoopMsg" type="System.Boolean">True</property>
+	<property name="PotionEquip" type="System.Boolean">True</property>
+	<property name="BlockDismount" type="System.Boolean">False</property>
+	<property name="AviRes" type="System.Int32">1</property>
+	<property name="AutoFriend" type="System.Boolean">True</property>
+	<property name="ShowCorpseNames" type="System.Boolean">True</property>
+	<property name="LogPacketsByDefault" type="System.Boolean">False</property>
+	<property name="MessageLevel" type="System.Int32">0</property>
+	<property name="AviFPS" type="System.Int32">15</property>
+	<property name="SkillListAsc" type="System.Boolean">True</property>
+	<property name="LTHilight" type="System.Int32">43</property>
+	<property name="CounterWarnAmount" type="System.Int32">5</property>
+	<property name="SpellFormat" type="System.String">{power} [{spell}]</property>
+	<property name="SpeechHue" type="System.Int32">945</property>
+	<property name="ForceIP" type="System.String" />
+	<property name="NoSearchPouches" type="System.Boolean">True</property>
+	<property name="SmartLastTarget" type="System.Boolean">True</property>
+	<property name="AlwaysOnTop" type="System.Boolean">True</property>
+	<property name="TitlebarImages" type="System.Boolean">True</property>
+	<property name="ForcePort" type="System.Int32">0</property>
+	<property name="ForceSizeX" type="System.Int32">900</property>
+	<property name="ForceSizeY" type="System.Int32">750</property>
+	<property name="CorpseRange" type="System.Int32">4</property>
+	<property name="SellAgentMax" type="System.Int32">99</property>
+	<property name="ImageFormat" type="System.String">jpg</property>
+	<property name="ShowMobNames" type="System.Boolean">True</property>
+	<property name="TitleBarDisplay" type="System.Boolean">True</property>
+	<property name="MapX" type="System.Int32">978</property>
+	<property name="MapY" type="System.Int32">708</property>
+	<property name="AutoStack" type="System.Boolean">False</property>
+	<property name="LTRange" type="System.Int32">12</property>
+	<property name="Opacity" type="System.Int32">100</property>
+	<property name="SmoothWalk" type="System.Boolean">False</property>
+	<property name="ActionStatusMsg" type="System.Boolean">True</property>
+	<property name="SpellUnequip" type="System.Boolean">True</property>
+	<property name="ExemptColor" type="System.Int32">1152</property>
+	<property name="AutoOpenCorpses" type="System.Boolean">True</property>
+	<property name="FlipVidV" type="System.Boolean">False</property>
+	<property name="ForceSizeEnabled" type="System.Boolean">True</property>
+	<property name="PartyStatFmt" type="System.String">[{0}% / {1}%]</property>
+	<property name="SysColor" type="System.Int32">945</property>
+	<property name="MapH" type="System.Int32">266</property>
+	<property name="MapW" type="System.Int32">292</property>
+	<property name="QueueTargets" type="System.Boolean">False</property>
+	<filters>
+		<filter name="1387" enable="True" />
+		<filter name="1321" enable="True" />
+	</filters>
+	<counters>
+		<counter name="Bandages" enabled="True" image="True" />
+		<counter name="Black Pearl" enabled="True" image="True" />
+		<counter name="Blood Moss" enabled="True" image="True" />
+		<counter name="Garlic" enabled="True" image="True" />
+		<counter name="Ginseng" enabled="True" image="True" />
+		<counter name="Mandrake Root" enabled="True" image="True" />
+		<counter name="Nightshade" enabled="True" image="True" />
+		<counter name="Spider's Silk" enabled="True" image="True" />
+		<counter name="Sulfurous Ash" enabled="True" image="True" />
+	</counters>
+	<agents>
+		<UseOnce>
+			<item serial="1098024141" />
+		</UseOnce>
+		<Sell enabled="True">
+			<item id="3885" />
+			<item id="3877" />
+			<item id="3859" />
+			<item id="3856" />
+			<item id="3865" />
+			<item id="3873" />
+			<item id="3878" />
+			<item id="5440" />
+		</Sell>
+		<Organizer-1 hotbag="1097544461">
+			<item id="3974" />
+			<item id="3980" />
+			<item id="3963" />
+			<item id="3981" />
+			<item id="3962" />
+			<item id="3976" />
+			<item id="3972" />
+			<item id="3973" />
+		</Organizer-1>
+		<Organizer-2 hotbag="686008">
+			<item id="3922" />
+		</Organizer-2>
+		<Organizer-3 hotbag="1097544463">
+			<item id="3852" />
+			<item id="3847" />
+			<item id="3849" />
+			<item id="3848" />
+		</Organizer-3>
+		<Organizer-4 hotbag="1097820646">
+			<item id="3702" />
+		</Organizer-4>
+		<Organizer-5 hotbag="1098302875">
+			<item id="3721" />
+		</Organizer-5>
+		<Organizer-6 hotbag="0" />
+		<Organizer-7 hotbag="0" />
+		<Organizer-8 hotbag="0" />
+		<Organizer-9 hotbag="0" />
+		<Organizer-10 hotbag="0" />
+		<AutoSearchExemptions />
+		<Scavenger enabled="True">
+			<item id="3903" />
+			<item id="7163" />
+			<item id="5981" />
+			<item id="5981" />
+			<item id="5372" />
+		</Scavenger>
+		<Buy-1 enabled="True">
+			<item id="3980" amount="50" />
+			<item id="3963" amount="50" />
+			<item id="3962" amount="50" />
+			<item id="3974" amount="50" />
+			<item id="3981" amount="50" />
+			<item id="3976" amount="50" />
+			<item id="3973" amount="50" />
+			<item id="3972" amount="50" />
+		</Buy-1>
+		<Buy-2 enabled="False" />
+		<Buy-3 enabled="False" />
+		<Buy-4 enabled="False" />
+		<Buy-5 enabled="False" />
+		<Restock-1 hotbag="1097820640">
+			<item id="3963" amount="45" />
+			<item id="3981" amount="45" />
+			<item id="3974" amount="45" />
+			<item id="3973" amount="45" />
+			<item id="3972" amount="45" />
+			<item id="3976" amount="45" />
+			<item id="3980" amount="45" />
+			<item id="3962" amount="45" />
+		</Restock-1>
+		<Restock-2 hotbag="1094017123">
+			<item id="3851" amount="6" />
+			<item id="3847" amount="6" />
+		</Restock-2>
+		<Restock-3 hotbag="0" />
+		<Restock-4 hotbag="0" />
+		<Restock-5 hotbag="0" />
+		<Friends enabled="False" />
+	</agents>
+	<dresslists>
+		<list name="qstaff">
+			<item id="3721" />
+		</list>
+		<list name="warhammer">
+			<item serial="1097195071" />
+		</list>
+		<list name="ahtch">
+			<item id="3907" />
+		</list>
+	</dresslists>
+	<hotkeys>
+		<key mod="2" key="220" send="False">L:1311</key>
+		<key mod="5" key="50" send="True">L:1029</key>
+		<key mod="5" key="49" send="False">L:1030</key>
+		<key mod="4" key="69" send="False">L:1032</key>
+		<key mod="0" key="72" send="True">L:1044081</key>
+		<key mod="1" key="69" send="False">L:1044106</key>
+		<key mod="0" key="81" send="False">Play: energybolt</key>
+		<key mod="0" key="71" send="True">Play: gate</key>
+		<key mod="4" key="32" send="True">Play: gateescape</key>
+		<key mod="2" key="123" send="False">Play: lasttarget+equip</key>
+		<key mod="2" key="32" send="False">Play: recallescape</key>
+		<key mod="1" key="220" send="True">Play: runebook</key>
+		<key mod="1" key="49" send="True">Play: runebook2</key>
+		<key mod="0" key="220" send="False">Play: use_dagger</key>
+		<key mod="4" key="220" send="True">Play: use_scissors</key>
+		<key mod="0" key="90" send="False">L:1150</key>
+		<key mod="4" key="90" send="True">L:1394</key>
+		<key mod="0" key="53" send="False">L:3002060</key>
+		<key mod="0" key="87" send="True">L:3002053</key>
+		<key mod="4" key="67" send="True">L:3002051</key>
+		<key mod="0" key="69" send="True">L:3002048</key>
+		<key mod="4" key="65" send="True">L:3002047</key>
+		<key mod="0" key="51" send="False">L:3002046</key>
+		<key mod="0" key="67" send="True">L:3002044</key>
+		<key mod="4" key="81" send="True">L:3002040</key>
+		<key mod="4" key="70" send="True">L:3002039</key>
+		<key mod="4" key="53" send="True">L:3002034</key>
+		<key mod="0" key="84" send="True">L:3002032</key>
+		<key mod="0" key="83" send="True">L:3002030</key>
+		<key mod="4" key="87" send="True">L:3002028</key>
+		<key mod="0" key="50" send="False">L:3002027</key>
+		<key mod="0" key="65" send="True">L:3002022</key>
+		<key mod="0" key="52" send="True">L:3002021</key>
+		<key mod="0" key="49" send="False">L:3002019</key>
+		<key mod="4" key="49" send="False">L:3002018</key>
+		<key mod="0" key="68" send="False">L:3002015</key>
+		<key mod="4" key="82" send="False">L:3002014</key>
+		<key mod="4" key="50" send="False">L:3002013</key>
+		<key mod="4" key="51" send="False">L:3002011</key>
+		<key mod="0" key="70" send="True">L:1391</key>
+		<key mod="0" key="82" send="True">L:1471</key>
+		<key mod="0" key="123" send="False">L:1058</key>
+		<key mod="0" key="-1" send="True">L:1059</key>
+		<key mod="0" key="122" send="False">L:1060</key>
+		<key mod="4" key="123" send="True">L:1395</key>
+		<key mod="0" key="-2" send="True">L:1332</key>
+		<key mod="1" key="65" send="False">L:1392</key>
+		<key mod="4" key="-2" send="True">L:1510</key>
+		<key mod="1" key="-1" send="True">L:1512</key>
+		<key mod="4" key="-1" send="True">L:1519</key>
+		<key mod="2" key="50" send="True">Toggle: qstaff</key>
+		<key mod="2" key="49" send="True">Dress: warhammer</key>
+	</hotkeys>
+	<passwords>
+		<password user="raneksi" ip="209.173.139.110">1+1D110B171F501E00</password>
+		<password user="rane" ip="209.173.139.110">1+1D110B171F501E00</password>
+		<password user="paranigam" ip="209.173.139.110">1+1D110B171F501E00</password>
+		<password user="paranigma" ip="209.173.139.110">1+1D110B171F501E00</password>
+		<password user="raneksi2" ip="209.173.139.110">1+1D110B171F501E00</password>
+		<password user="raneksi3" ip="209.173.139.110">1+1D110B171F501E00</password>
+		<password user="raneksi4" ip="209.173.139.110">1+1D110B171F501E00</password>
+	</passwords>
+</profile>

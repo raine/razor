@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
+<profile>
+	<property name="ForceSpeechHue" type="System.Boolean">False</property>
+	<property name="WarningColor" type="System.Int32">37</property>
+	<property name="RangeCheckLT" type="System.Boolean">True</property>
+	<property name="FlipVidH" type="System.Boolean">False</property>
+	<property name="UndressConflicts" type="System.Boolean">True</property>
+	<property name="SortCounters" type="System.Boolean">True</property>
+	<property name="TitleBarText" type="System.String">UO - {char} {crimtime}- {mediumstatbar} {bp} {bm} {gl} {gs} {mr} {ns} {ss} {sa} {aids}</property>
+	<property name="BlockHealPoison" type="System.Boolean">False</property>
+	<property name="DisplaySkillChanges" type="System.Boolean">False</property>
+	<property name="LastTargTextFlags" type="System.Boolean">True</property>
+	<property name="QueueActions" type="System.Boolean">True</property>
+	<property name="SkillListCol" type="System.Int32">2</property>
+	<property name="AutoCap" type="System.Boolean">False</property>
+	<property name="AutoSearch" type="System.Boolean">True</property>
+	<property name="RecFolder" type="System.String">D:\Program Files\Razor\Videos</property>
+	<property name="CapTimeStamp" type="System.Boolean">True</property>
+	<property name="HealthFmt" type="System.String">[{0}%]</property>
+	<property name="BeneficialSpellHue" type="System.Int32">5</property>
+	<property name="CounterWarn" type="System.Boolean">True</property>
+	<property name="HighlightReagents" type="System.Boolean">True</property>
+	<property name="ObjectDelay" type="System.Int32">600</property>
+	<property name="WindowX" type="System.Int32">569</property>
+	<property name="WindowY" type="System.Int32">568</property>
+	<property name="AutoOpenDoors" type="System.Boolean">True</property>
+	<property name="ForceSpellHue" type="System.Boolean">False</property>
+	<property name="CapFullScreen" type="System.Boolean">False</property>
+	<property name="OldStatBar" type="System.Boolean">False</property>
+	<property name="CountStealthSteps" type="System.Boolean">True</property>
+	<property name="NeutralSpellHue" type="System.Int32">945</property>
+	<property name="HarmfulSpellHue" type="System.Int32">37</property>
+	<property name="CapPath" type="System.String">D:\Program Files\Razor\ScreenShots</property>
+	<property name="ShowPartyStats" type="System.Boolean">False</property>
+	<property name="AlwaysStealth" type="System.Boolean">False</property>
+	<property name="SmartCPU" type="System.Boolean">True</property>
+	<property name="ShowNotoHue" type="System.Boolean">True</property>
+	<property name="ShowHealth" type="System.Boolean">False</property>
+	<property name="Negotiate" type="System.Boolean">True</property>
+	<property name="RememberPwds" type="System.Boolean">True</property>
+	<property name="Systray" type="System.Boolean">True</property>
+	<property name="ClientPrio" type="System.String">Normal</property>
+	<property name="FilterSpam" type="System.Boolean">False</property>
+	<property name="FilterSnoopMsg" type="System.Boolean">True</property>
+	<property name="PotionEquip" type="System.Boolean">False</property>
+	<property name="BlockDismount" type="System.Boolean">False</property>
+	<property name="AviRes" type="System.Int32">1</property>
+	<property name="AutoFriend" type="System.Boolean">False</property>
+	<property name="ShowCorpseNames" type="System.Boolean">False</property>
+	<property name="LogPacketsByDefault" type="System.Boolean">False</property>
+	<property name="MessageLevel" type="System.Int32">1</property>
+	<property name="AviFPS" type="System.Int32">15</property>
+	<property name="SkillListAsc" type="System.Boolean">True</property>
+	<property name="LTHilight" type="System.Int32">0</property>
+	<property name="CounterWarnAmount" type="System.Int32">5</property>
+	<property name="SpellFormat" type="System.String">{power} [{spell}]</property>
+	<property name="SpeechHue" type="System.Int32">945</property>
+	<property name="ForceIP" type="System.String" />
+	<property name="NoSearchPouches" type="System.Boolean">True</property>
+	<property name="SmartLastTarget" type="System.Boolean">False</property>
+	<property name="AlwaysOnTop" type="System.Boolean">False</property>
+	<property name="TitlebarImages" type="System.Boolean">True</property>
+	<property name="ForcePort" type="System.Int32">0</property>
+	<property name="ForceSizeX" type="System.Int32">1024</property>
+	<property name="ForceSizeY" type="System.Int32">768</property>
+	<property name="CorpseRange" type="System.Int32">2</property>
+	<property name="SellAgentMax" type="System.Int32">99</property>
+	<property name="ImageFormat" type="System.String">jpg</property>
+	<property name="ShowMobNames" type="System.Boolean">False</property>
+	<property name="TitleBarDisplay" type="System.Boolean">True</property>
+	<property name="MapX" type="System.Int32">200</property>
+	<property name="MapY" type="System.Int32">200</property>
+	<property name="AutoStack" type="System.Boolean">True</property>
+	<property name="LTRange" type="System.Int32">12</property>
+	<property name="Opacity" type="System.Int32">100</property>
+	<property name="SmoothWalk" type="System.Boolean">False</property>
+	<property name="ActionStatusMsg" type="System.Boolean">True</property>
+	<property name="SpellUnequip" type="System.Boolean">False</property>
+	<property name="ExemptColor" type="System.Int32">1152</property>
+	<property name="AutoOpenCorpses" type="System.Boolean">False</property>
+	<property name="FlipVidV" type="System.Boolean">False</property>
+	<property name="ForceSizeEnabled" type="System.Boolean">True</property>
+	<property name="PartyStatFmt" type="System.String">[{0}% / {1}%]</property>
+	<property name="SysColor" type="System.Int32">945</property>
+	<property name="MapH" type="System.Int32">200</property>
+	<property name="MapW" type="System.Int32">200</property>
+	<property name="QueueTargets" type="System.Boolean">True</property>
+	<filters />
+	<counters>
+		<counter name="Bandages" enabled="True" image="True" />
+		<counter name="Black Pearl" enabled="True" image="True" />
+		<counter name="Blood Moss" enabled="True" image="True" />
+		<counter name="Garlic" enabled="True" image="True" />
+		<counter name="Ginseng" enabled="True" image="True" />
+		<counter name="Mandrake Root" enabled="True" image="True" />
+		<counter name="Nightshade" enabled="True" image="True" />
+		<counter name="Spider's Silk" enabled="True" image="True" />
+		<counter name="Sulfurous Ash" enabled="True" image="True" />
+	</counters>
+	<agents>
+		<UseOnce />
+		<Sell enabled="True" />
+		<Organizer-1 hotbag="747629">
+			<item id="3907" />
+		</Organizer-1>
+		<Organizer-2 hotbag="0" />
+		<Organizer-3 hotbag="0" />
+		<Organizer-4 hotbag="0" />
+		<Organizer-5 hotbag="1090526602">
+			<item id="5365" />
+		</Organizer-5>
+		<Organizer-6 hotbag="0" />
+		<Organizer-7 hotbag="0" />
+		<Organizer-8 hotbag="0" />
+		<Organizer-9 hotbag="0" />
+		<Organizer-10 hotbag="0" />
+		<AutoSearchExemptions />
+		<Scavenger enabled="True">
+			<item id="5372" />
+		</Scavenger>
+		<Buy-1 enabled="False" />
+		<Buy-2 enabled="False" />
+		<Buy-3 enabled="False" />
+		<Buy-4 enabled="False" />
+		<Buy-5 enabled="False" />
+		<Restock-1 hotbag="1094017123" />
+		<Restock-2 hotbag="1094017123" />
+		<Restock-3 hotbag="0" />
+		<Restock-4 hotbag="0" />
+		<Restock-5 hotbag="0" />
+		<Friends enabled="False" />
+	</agents>
+	<dresslists />
+	<hotkeys>
+		<key mod="2" key="220" send="True">L:1311</key>
+		<key mod="0" key="82" send="False">L:1083</key>
+		<key mod="0" key="71" send="True">Play: gate</key>
+		<key mod="0" key="81" send="False">Play: mine</key>
+		<key mod="0" key="69" send="True">Play: mine2</key>
+		<key mod="0" key="87" send="False">Play: usepickaxe</key>
+	</hotkeys>
+	<passwords>
+		<password user="raneksi" ip="209.173.139.110">1+1D110B171F501E00</password>
+		<password user="raneksi4" ip="209.173.139.110">1+1D110B171F501E00</password>
+		<password user="raneksi3" ip="209.173.139.110">1+1D110B171F501E00</password>
+	</passwords>
+</profile>
